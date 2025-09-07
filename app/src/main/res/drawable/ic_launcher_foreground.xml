@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Circular border for profile photo -->
+    <group android:translateX="54" android:translateY="54">
+        <!-- Outer white border -->
+        <path
+            android:fillColor="@android:color/transparent"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="4"
+            android:pathData="M-32,-32 A32,32 0 1,1 32,-32 A32,32 0 1,1 -32,-32 Z" />
+        
+        <!-- Inner teal accent border -->
+        <path
+            android:fillColor="@android:color/transparent"
+            android:strokeColor="#26A69A"
+            android:strokeWidth="2"
+            android:pathData="M-30,-30 A30,30 0 1,1 30,-30 A30,30 0 1,1 -30,-30 Z" />
+    </group>
+</vector>

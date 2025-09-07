@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background gradient circle -->
+    <group>
+        <path
+            android:fillType="nonZero"
+            android:pathData="M54,54m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0"
+            android:strokeWidth="0">
+            <aapt:attr name="android:fillColor">
+                <gradient
+                    android:centerX="54"
+                    android:centerY="54"
+                    android:gradientRadius="50"
+                    android:type="radial">
+                    <item android:offset="0" android:color="#FF6366F1" />
+                    <item android:offset="0.3" android:color="#FF8B5CF6" />
+                    <item android:offset="0.6" android:color="#FF06B6D4" />
+                    <item android:offset="1" android:color="#FF10B981" />
+                </gradient>
+            </aapt:attr>
+        </path>
+    </group>
+    
+    <!-- White background circle for text -->
+    <group>
+        <path
+            android:fillColor="#FFFFFF"
+            android:fillType="nonZero"
+            android:pathData="M54,54m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0"
+            android:strokeWidth="0" />
+    </group>
+    
+    <!-- RKB Text -->
+    <group>
+        <!-- R -->
+        <path
+            android:fillColor="#FF1F2937"
+            android:pathData="M25,35L25,75L29,75L29,57L35,57L42,75L47,75L39,56C41.5,54.5 43,51.5 43,48C43,42.5 39.5,35 32,35L25,35ZM29,39L32,39C36,39 39,41 39,48C39,52 37,53 32,53L29,53L29,39Z"
+            android:strokeWidth="0" />
+        
+        <!-- K -->
+        <path
+            android:fillColor="#FF1F2937"
+            android:pathData="M50,35L50,75L54,75L54,56L65,75L71,75L58,54L70,35L64,35L54,51L54,35L50,35Z"
+            android:strokeWidth="0" />
+        
+        <!-- B -->
+        <path
+            android:fillColor="#FF1F2937"
+            android:pathData="M75,35L75,75L85,75C89,75 92,72 92,68C92,65.5 90.5,63.5 88,62.5C90,61.5 91,59 91,56C91,51.5 87.5,35 82,35L75,35ZM79,39L82,39C85,39 87,41 87,44C87,47 85,48 82,48L79,48L79,39ZM79,52L85,52C87.5,52 88,54 88,56C88,58.5 86.5,59 85,59L79,59L79,52Z"
+            android:strokeWidth="0" />
+    </group>
+</vector>

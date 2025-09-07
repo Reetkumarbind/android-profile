@@ -1,0 +1,92 @@
+=============================================
+           REET KUMAR BIND
+          Software Engineer
+=============================================
+
+CONTACT INFORMATION
+-------------------
+Email: reetkumarbind@gmail.com
+GitHub: github.com/Reetkumarbind
+LinkedIn: linkedin.com/in/reetkumarbind
+Portfolio: reetkumarbind.netlify.app
+
+PROFESSIONAL SUMMARY
+--------------------
+Passionate software engineer with expertise in Java, Kotlin, and React Native development. I enjoy creating efficient, user-friendly applications and am constantly learning new technologies. My journey spans from Java fundamentals to Android development and cross-platform mobile solutions.
+
+TECHNICAL SKILLS
+----------------
+Programming Languages:
+• Java (Advanced)
+• Kotlin (Advanced)
+• JavaScript (Intermediate)
+• TypeScript (Intermediate)
+
+Frameworks & Libraries:
+• Jetpack Compose
+• React Native
+• JavaFX
+
+Tools & Technologies:
+• Android Studio
+• Git & GitHub
+• Oracle CCB
+• SQL
+• SQLite
+
+PROJECTS
+--------
+1. Personal Finance Tracker (JavaFX)
+   - Comprehensive application for tracking personal expenses and income
+   - Features: Budget planning, expense categorization, financial reports
+   - Technologies: JavaFX, Java, SQLite, CSS
+
+2. Portfolio Website
+   - Modern, responsive portfolio website
+   - Features: Project showcase, smooth animations, clean design
+   - Technologies: HTML, CSS, JavaScript, Netlify
+   - Live: reetkumarbind.netlify.app
+
+3. WalkFit Step Tracker (React Native)
+   - Cross-platform mobile app for fitness tracking
+   - Features: Step counting, distance tracking, goal setting
+   - Technologies: React Native, JavaScript, AsyncStorage, Expo
+
+4. Weather App (React Native)
+   - Real-time weather application with location-based forecasts
+   - Features: Multiple city support, weather animations
+   - Technologies: React Native, TypeScript, OpenWeather API
+
+LEARNING JOURNEY
+----------------
+2022-2023: Java Fundamentals
+- Mastered core Java concepts, OOP principles, data structures
+
+2023-2024: Android Development
+- Learned Kotlin and Android development
+- Focused on Jetpack Compose for modern UI development
+
+2024: Cross-Platform Development
+- Expanded skills to React Native
+- Built applications for both Android and iOS
+
+2024-Present: Oracle CCB
+- Currently learning Oracle Customer Care and Billing system
+- Working with enterprise-level applications
+
+EDUCATION & CERTIFICATIONS
+--------------------------
+[Add your educational background here]
+
+INTERESTS
+---------
+• Mobile App Development
+• Open Source Contribution
+• Technology Innovation
+• Continuous Learning
+
+=============================================
+Note: This is a text version of the resume.
+For the complete PDF version with proper formatting,
+please contact me directly.
+=============================================

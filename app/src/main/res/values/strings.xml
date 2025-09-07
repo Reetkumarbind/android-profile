@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">REET KUMAR BIND</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error">Something went wrong</string>
+    <string name="retry">Retry</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_about">About</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_experience">Experience</string>
+    <string name="nav_contact">Contact</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Welcome</string>
+    <string name="home_subtitle">Portfolio Overview</string>
+    <string name="home_cta_projects">View Projects</string>
+    <string name="home_cta_contact">Contact Me</string>
+    <string name="home_cta_message">Let\'s Build Something Amazing Together!</string>
+    <string name="home_cta_description">Explore my projects, experience, and skills.\nReady to collaborate on your next project?</string>
+    
+    <!-- About Screen -->
+    <string name="about_title">About Me</string>
+    <string name="about_subtitle">Getting to know %s</string>
+    <string name="about_bio_title">My Story</string>
+    <string name="about_skills_title">Skills &amp; Technologies</string>
+    
+    <!-- Projects Screen -->
+    <string name="projects_title">My Projects</string>
+    <string name="projects_subtitle">Showcasing my development journey through real-world applications</string>
+    <string name="projects_completed">Completed</string>
+    <string name="projects_tech_stack">Tech Stack:</string>
+    <string name="projects_view_live">View Live</string>
+    <string name="projects_source_code">Source Code</string>
+    
+    <!-- Experience Screen -->
+    <string name="experience_title">Learning Journey</string>
+    <string name="experience_subtitle">Milestones in my development career and continuous learning path</string>
+    <string name="experience_current">Current</string>
+    <string name="experience_technologies">Technologies:</string>
+    
+    <!-- Contact Screen -->
+    <string name="contact_title">Get In Touch</string>
+    <string name="contact_subtitle">Let\'s connect and build something amazing together!</string>
+    <string name="contact_message_title">📬 Ready to Collaborate?</string>
+    <string name="contact_message_description">Whether you have a project in mind, want to discuss opportunities, or just want to say hello, I\'d love to hear from you!</string>
+    <string name="contact_resume_title">Want to know more?</string>
+    <string name="contact_resume_description">Download my resume for detailed information about my experience and skills.</string>
+    <string name="contact_view_resume">View Resume</string>
+    
+    <!-- Content Descriptions -->
+    <string name="cd_profile_picture">Profile Picture</string>
+    <string name="cd_launch_external">Open in external app</string>
+    <string name="cd_download">Download</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_menu">Menu</string>
+    
+    <!-- Error Messages -->
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_file_not_found">File not found</string>
+    <string name="error_resume_open">Unable to open resume. Please try again.</string>
+    
+    <!-- Success Messages -->
+    <string name="success_email_opened">Email app opened</string>
+    <string name="success_link_opened">Link opened successfully</string>
+</resources>
